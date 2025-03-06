@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0b093de-20a3-4321-abf3-6a84ef386c47)![image](https://github.com/user-attachments/assets/3f6df7a7-a310-4302-814b-0977b19d5eeb)# pr2.2_obd
+# pr2.2_obd
 # ПРАКТИЧНА РОБОТА № 2
 # Створення запитів у MS SQL
 # Короткий опис
